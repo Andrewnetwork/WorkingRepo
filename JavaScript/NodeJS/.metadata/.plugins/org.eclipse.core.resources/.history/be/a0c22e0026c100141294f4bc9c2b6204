@@ -1,0 +1,6 @@
+var events = require('events');
+var emitter = new events.EventEmitter();
+emitter.emit("simpleEvent");
+
+var myObject = new MyObj();
+myObject.on("simpleEvent",exCallBack);

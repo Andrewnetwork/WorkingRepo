@@ -1,0 +1,14 @@
+Hey there, this is my first Node.js module. I'm looking forward to 
+creating things on this new platform. 
+
+C:\Users\Andrew\Documents\GitHub\WorkingRepo\JavaScript\NodeJS\censorify
+
+LESSON LEARNED: MAKE SURE NO GARBAGE IS IN THE ECLIPSE FOLDER WHEN 
+USING npm pack
+
+To install this package: 
+npm install censorify-0.1.1.tgz
+
+You may need to copy node_modules to the folder of the  application that requires it. 
+
+node readwords.js

@@ -1,0 +1,19 @@
+
+var asked = 0
+
+function sayHello()
+{
+	console.log("Hey!")
+}
+
+function areYouStillThere()
+{
+	console.log("Are you still here? A:"+(++asked));
+}
+
+setTimeout(sayHello,1000)
+setTimeout(sayHello,6000)
+
+
+// clearInterval and clearTomeout
+

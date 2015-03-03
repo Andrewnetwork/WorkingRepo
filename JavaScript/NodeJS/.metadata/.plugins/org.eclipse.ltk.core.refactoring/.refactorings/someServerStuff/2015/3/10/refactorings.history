@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;someServerStuff/fileIO&apos; to &apos;fileIO.js&apos;" description="Rename resource &apos;fileIO&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="fileIO" name="fileIO.js" stamp="1425335741163" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;readwords.js&apos; to &apos;readwords&apos;" description="Move &apos;readwords.js&apos; to &apos;readwords&apos;" destination="/readwords" element1="/censorify/node_modules/censorify/readwords.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1425329438974" updateReferences="true"/>
+</session>

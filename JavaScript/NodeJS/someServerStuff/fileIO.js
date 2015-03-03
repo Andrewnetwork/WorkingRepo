@@ -1,0 +1,1 @@
+// JSON.parse(string): converts a string to a JavaScript object

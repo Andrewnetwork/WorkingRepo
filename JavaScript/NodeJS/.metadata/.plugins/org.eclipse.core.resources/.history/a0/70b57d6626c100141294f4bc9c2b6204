@@ -1,0 +1,18 @@
+var events = require('events');
+var emitter = new events.EventEmitter();
+emitter.emit("simpleEvent");
+
+function exCallBack()
+{
+	console.log("Color me triggered.");
+}
+
+function MyObject()
+{
+	Events.EventEmitter.call(this);
+}
+
+MyObject.prototype.__proto__= events.EventEmitter.prototype;
+
+var myObject = new MyObject();
+myObject.addListener("simpleEvent",exCallBack);

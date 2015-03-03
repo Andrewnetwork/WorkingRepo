@@ -1,0 +1,13 @@
+
+function sayHello()
+{
+	console.log("Hey!")
+}
+
+
+setTimeout(sayHello,1000)
+setTimeout(sayHello,6000)
+
+
+// clearInterval and clearTomeout
+

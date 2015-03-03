@@ -1,0 +1,8 @@
+
+function sayHello()
+{
+	console.log("Hey!")
+}
+
+
+setTimeout(sayHello(),1000)
