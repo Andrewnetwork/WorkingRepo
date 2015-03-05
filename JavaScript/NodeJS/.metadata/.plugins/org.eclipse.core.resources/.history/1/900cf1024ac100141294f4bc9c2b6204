@@ -12,5 +12,3 @@ npm install censorify-0.1.1.tgz
 You may need to copy node_modules to the folder of the  application that requires it. 
 
 node readwords.js
-
-cntrl+c break
